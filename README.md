@@ -4,4 +4,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="50"/>
 </div/>
-<a href="http://https://gustavovinicius1.github.io/projeto-desenvolvido-html-css/">Visualizar projeto HTML e CSS</a>
+<a href="https://gustavovinicius1.github.io/projeto-desenvolvido-html-css/">Visualizar projeto HTML e CSS</a>
